@@ -5,18 +5,18 @@
 
 
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+This project is about playing with p5js. We made a 2D starry background that makes it feels like you're moving through space , and an alien-monster creature movement, inspired by something I saw on spiders before.
 ## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
-## Link to product walkthrough
-[link to video](Link Here)
+1. [Midnightcoder04](https://github.com/midnightcoder04)
+2. [Hadi](https://github.com/hadi-styles)
+## Link to website
+[link to website](https://shn-3-p5js.vercel.app/)
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+1. It works by utilizing P5 javascript libraries (So we have predefined classes) to easily code in figures and animations. 
 ## Libraries used
-Library Name - Version
+Library Name - P5.js
 ## How to configure
-Instructions for setting up project
+No configuration required , fork and run index.html
 ## How to Run
-Instructions for running
+1. Fork the repo
+2. Open on Vscode and run via live server (extension) or double click on index.html to run the project.
