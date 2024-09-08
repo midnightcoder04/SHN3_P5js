@@ -4,7 +4,7 @@
 
 
 
-# SkyAlien
+# GalacticAlienSpider
 This project is about playing with p5js. We made a 2D starry background that makes it feels like you're moving through space , and an alien-monster creature movement, inspired by something I saw on spiders before.
 ## Team members
 1. [Midnightcoder04](https://github.com/midnightcoder04)
