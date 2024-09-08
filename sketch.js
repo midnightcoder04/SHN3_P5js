@@ -13,8 +13,10 @@ let astro;
 function setup() {
   cvx = windowWidth
   cvy = windowHeight
-  numStars = int((cvx*cvy) / 5000);
-  numNodes = int((cvx*cvy) / 2500);
+  //numStars = int((cvx*cvy) / 5000);
+  //numNodes = int((cvx*cvy) / 2500);
+  numStars = 100;
+  numNodes = 200;
   print(numStars,numNodes)
   createCanvas(cvx, cvy);
   for(let i = 0; i < numStars; i++) {
