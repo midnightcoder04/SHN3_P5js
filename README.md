@@ -11,7 +11,7 @@ This project is about playing with p5js. We made a 2D starry background that mak
 2. [Hadi](https://github.com/hadi-styles)
 ## Links to website
 [link to p5js editor](https://editor.p5js.org/imotokyo885/sketches/-3F-3cgeA) - choose if on phone or for optimised running <br />
-[link to website](https://shn-3-p5js.vercel.app/) - Not recommended but upto you
+[link to website](https://shn-3-p5js.vercel.app/) - Not recommended (But runnable on PC)
 ## How it Works ?
 1. It works by utilizing P5 javascript libraries (So we have predefined classes) to easily code in figures and animations. 
 ## Libraries used
